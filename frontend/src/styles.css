@@ -1,0 +1,19 @@
+:root {
+  font-family: "Noto Sans JP", system-ui, sans-serif;
+  color: #0f172a;
+}
+
+body {
+  margin: 0;
+  background: #f1f5f9;
+}
+
+button {
+  cursor: pointer;
+}
+
+select,
+input,
+button {
+  font-family: inherit;
+}
